@@ -1,0 +1,17 @@
+.footer-info {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 28px;
+    max-width: 800px;
+}
+
+.footer-info__text {
+    font-family: "Foros", "Arial", sans-serif;
+    font-size: 10px;
+    line-height: 12px;
+    font-weight: 400;
+    color: rgba(255, 255, 255, 0.4);
+    text-align: center;
+}
