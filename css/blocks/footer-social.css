@@ -5,10 +5,11 @@
 }
 
 .footer-social__list {
+    display: flex;
+    flex-wrap: wrap;
     margin: 0 0 50px 0;
     padding: 0;
     list-style: none;
-    display: flex;
     gap: 73px;
     justify-content: center;
     align-items: center;

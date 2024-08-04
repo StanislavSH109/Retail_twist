@@ -20,7 +20,7 @@
     margin: 0 0 60px 0;
 }
 
-.hero-content__info {
+.hero-content__info-link {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -59,4 +59,5 @@
     padding: 14px 28px;
     background-color: #23252E;
     border: 0;
+    cursor: pointer;
 }
