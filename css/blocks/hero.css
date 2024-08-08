@@ -11,6 +11,7 @@
     background-position: right;
     background-size: contain;
     min-height: calc(100vh - 80px);
+    padding: 20px;
 }
 
 .hero__content {
@@ -37,7 +38,12 @@
     margin: 0 0 60px 0;
 }
 
-.hero__info-link {
+.hero__list {
+    margin: 0;
+    padding: 0;
+}
+
+.hero__info {
     display: flex;
     justify-content: center;
     align-items: center;
