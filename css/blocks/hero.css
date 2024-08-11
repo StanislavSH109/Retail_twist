@@ -15,9 +15,9 @@
 }
 
 .hero__content {
-    width: 480px;
+    width: 540px;
     align-self: center;
-
+    padding: 20px 0 0 0;
 }
 
 .hero__title {
@@ -33,9 +33,9 @@
 
 .hero__inner {
     display: flex;
-    justify-content: space-between;
     align-items: center;
     margin: 0 0 60px 0;
+    gap: 60px;
 }
 
 .hero__list {
